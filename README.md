@@ -3,5 +3,5 @@ Code and data for Characterization of pediatric urinary microbiome at species-le
 
 
 * [Overview of replicate samples](https://html-preview.github.io/?url=https://github.com/KarstensLab/pediatric_urobiome_2024/blob/main/Fig1_replicate_summary.html)
-* [Analysis of sex and age](https://KarstensLab.github.io/pediatric_urobiome_2024/Fig2_variation_by_sex_and_age.html)
+* [Analysis of sex and age](https://html-preview.github.io/?url=https://github.com/KarstensLab/pediatric_urobiome_2024/blob/main/Fig2_variation_by_sex_and_age.html)
 * Analysis of UTI History
